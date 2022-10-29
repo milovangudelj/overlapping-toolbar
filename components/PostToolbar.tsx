@@ -68,3 +68,5 @@ export const PostToolbar = forwardRef<
 		</div>
 	);
 });
+
+PostToolbar.displayName = "PostToolbar";
